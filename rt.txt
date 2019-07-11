@@ -9,7 +9,7 @@ git clone ssh://git@github.com:tejshreebhosale/TestGit.git
 git status
 
 4).To upload all file
-git add -A
+git add -A or git add .
 
 
 5)Commit all file in local 
@@ -17,3 +17,6 @@ git commit -m "message"
 
 6)to push local repo to github
 git remote add origin "gitrepourl address"
+
+7) To check  all files inside a folder
+ls
