@@ -1,0 +1,19 @@
+1).To create Repo
+git init
+
+
+2)For clone
+git clone ssh://git@github.com:tejshreebhosale/TestGit.git
+
+3).Check status
+git status
+
+4).To upload all file
+git add -A
+
+
+5)Commit all file in local 
+git commit -m "message"
+
+6)to push local repo to github
+git remote add origin "gitrepourl address"
